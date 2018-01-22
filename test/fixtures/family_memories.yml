@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  family: one
+  title: MyString
+  memory: MyText
+  location: MyString
+  time: MyString
+  user: one
+
+two:
+  family: two
+  title: MyString
+  memory: MyText
+  location: MyString
+  time: MyString
+  user: two
